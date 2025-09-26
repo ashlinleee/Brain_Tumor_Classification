@@ -25,11 +25,11 @@ The goal of this project is to build and compare CNN models for accurate brain t
 | VGG16    | 94%      | High recall for Glioma, fast convergence | Pituitary recall low (~84%), class confusion |
 
 **Observation**  
-**DenseNet** is the best performing model overall while VGG16 is very good for screening but requires fine-tuning for Pituitary detection.  
+**DenseNet** is the best performing model overall while VGG16 is very good for screening.  
   
 **References**  
 -Kaggle Brain Tumor MRI Dataset  
 -He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep Residual Learning for Image Recognition.  
 -Dorfner, F. J. (2025). A Review of Deep Learning for Brain Tumor Analysis in MRI.  
 -Zahoor, M. M., et al. (2024). Brain Tumor MRI Classification Using a Novel Deep Convolutional Neural Network.  
--Simonyan, K., & Zisserman, A. (2015). Very Deep Convolutional Networks for Large-Scale Image Recognition.
+-Simonyan, K., & Zisserman, A. (2015). Very Deep Convolutional Networks for Large Scale Image Recognition.
