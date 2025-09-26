@@ -1,6 +1,6 @@
 # Brain Tumor Classification
 This repository contains implementations of three deep learning models: ResNet, DenseNet and VGG16 for brain tumor classification using MRI images. The models classify MRI scans into four categories:
-**Meningioma
+**Meningioma  
 No Tumor
 Glioma
 Pituitary Tumor**
