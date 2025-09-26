@@ -1,5 +1,6 @@
 # Brain Tumor Classification
 This repository contains implementations of three deep learning models: ResNet, DenseNet and VGG16 for brain tumor classification using MRI images.  
+  
 The models classify MRI scans into four categories:  
 **Meningioma  
 No Tumor  
@@ -26,9 +27,9 @@ The goal of this project is to build and compare CNN models for accurate brain t
 **Observation**  
 **DenseNet** is the best performing model overall while VGG16 is very good for screening but requires fine-tuning for Pituitary detection.  
   
-**References**
-Kaggle Brain Tumor MRI Dataset
-He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep Residual Learning for Image Recognition, CVPR.
-Dorfner, F. J. (2025). A Review of Deep Learning for Brain Tumor Analysis in MRI, Nature Reviews Neurology.
-Zahoor, M. M., et al. (2024). Brain Tumor MRI Classification Using a Novel Deep Convolutional Neural Network, Biomedicines, 12(7), 1395.
+**References**  
+Kaggle Brain Tumor MRI Dataset  
+He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep Residual Learning for Image Recognition, CVPR.  
+Dorfner, F. J. (2025). A Review of Deep Learning for Brain Tumor Analysis in MRI, Nature Reviews Neurology.  
+Zahoor, M. M., et al. (2024). Brain Tumor MRI Classification Using a Novel Deep Convolutional Neural Network, Biomedicines, 12(7), 1395.  
 Simonyan, K., & Zisserman, A. (2015). Very Deep Convolutional Networks for Large-Scale Image Recognition, ICLR.
