@@ -4,8 +4,9 @@ This repository contains implementations of three deep learning models: ResNet, 
 No Tumor  
 Glioma  
 Pituitary Tumor**  
-The goal of this project is to build and compare CNN models for accurate brain tumor detection and to analyze their performance across different architectures.
+The goal of this project is to build and compare CNN models for accurate brain tumor detection and to analyze their performance across different architectures.  
 
+**Findings**
 | Model        | Description                | Key Highlights                                                  |
 | ------------ | -------------------------- | --------------------------------------------------------------- |
 | **ResNet**   | Residual network based CNN | High F1 scores, very low false positives/negatives              |
